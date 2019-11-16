@@ -16,5 +16,10 @@
     "http-errors": "^1.7.3",
     "route-parser": "^0.0.5",
     "yamljs": "^0.3.0"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^6.5.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "prettier": "1.19.1"
   }
 }
