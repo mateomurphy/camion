@@ -5,7 +5,7 @@
     "email": "mateo.murphy@gmail.com"
   },
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "src/index.js",
   "bin": {
     "serve": "./bin/www"
